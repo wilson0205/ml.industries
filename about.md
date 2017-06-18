@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About ML.industries
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
